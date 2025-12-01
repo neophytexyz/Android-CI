@@ -13,7 +13,7 @@
       "CC": "clang/bin/clang",
       "externalCommand": {
         "CROSS_COMPILE": "clang/bin/aarch64-linux-gnu-",
-        "CROSS_COMPILE_ARM32": "clang/bin/arm-linux-gnueabi-",
+        "CROSS_COMPILE_COMPAT": "clang/bin/arm-linux-gnueabi-",
         "AS": "clang/bin/llvm-as",
         "LD": "clang/bin/ld.lld",
         "AR": "clang/bin/llvm-ar",
