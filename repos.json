@@ -14,7 +14,7 @@
       "externalCommand": {
         "CROSS_COMPILE": "clang/bin/aarch64-linux-gnu-",
         "CROSS_COMPILE_COMPAT": "clang/bin/arm-linux-gnueabi-",
-        "READELF"= "clang/bin/llvm-readelf",
+        "READELF": "clang/bin/llvm-readelf",
         "AS": "clang/bin/llvm-as",
         "LD": "clang/bin/ld.lld",
         "AR": "clang/bin/llvm-ar",
